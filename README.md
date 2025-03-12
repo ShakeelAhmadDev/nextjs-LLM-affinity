@@ -1,8 +1,12 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Getting Started
+### Getting Started
 
-First, run the development server:
+## Make sure Add the keys Open.ai and @anthropic-ai/sdk env file
+
+Make sure create .env.local file in root folder and add keys 
+
+Then, run the development server:
 
 ```bash
 npm run dev
